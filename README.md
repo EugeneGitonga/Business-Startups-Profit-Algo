@@ -8,3 +8,5 @@
 * MyBinder.org is a great project that allows you to create virtualized Jupyter Notebook environment from any GitHub repository. 
 * You just need to enter the URL, and Binder will create a container for you, and start Jupyter environment. 
 * Many repositories with Jupyter Notebooks include Launch Binder button to open the repository in Binder automatically.
+
+https://mybinder.org/v2/gh/CloudAdvocacy/CognitivePortrait/master
