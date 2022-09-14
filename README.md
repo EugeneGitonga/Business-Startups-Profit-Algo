@@ -2,7 +2,7 @@
 
 ## Contribute Code
 
-Contributions are most welcome, whether you’ve fixed a bug or introduced a new feature. I welcome pull requests! (If you’d like to make a larger change and check with me first, you can do so via (https://www.linkedin.com/in/eugene-gitonga-b29730163/).
+Contributions are most welcome, whether you’ve fixed a bug or introduced a new feature in the notebook. I welcome pull requests! (If you’d like to make a larger change and check with me first, you can do so via (https://www.linkedin.com/in/eugene-gitonga-b29730163/).
 
 ## INTRODUCTION
 
