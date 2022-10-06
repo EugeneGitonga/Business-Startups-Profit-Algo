@@ -4,6 +4,8 @@
 
 Contributions are most welcome, whether you’ve fixed a bug or introduced a new feature in the notebook. I welcome pull requests! (If you’d like to make a larger change and check with me first, you can do so via (https://www.linkedin.com/in/eugene-gitonga-b29730163/).
 
+Show your support Give a ⭐️ if you like this project!
+
 ## Introduction
 
 * This dataset (50 Startups dataset) has data collected from New York, California and Florida about 50 business Startups “17 in each state”. The variables used in the dataset are Profit, R&D spending, Administration Spending, and Marketing Spending.
